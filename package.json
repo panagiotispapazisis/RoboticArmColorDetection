@@ -21,6 +21,7 @@
     "axios": "^1.3.6",
     "dayjs": "^1.11.7",
     "formik": "^2.2.9",
+    "hex-color-to-color-name": "^1.0.2",
     "i18next": "^22.4.15",
     "jwt-decode": "^3.1.2",
     "lodash": "^4.17.21",
